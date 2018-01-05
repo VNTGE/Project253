@@ -1,0 +1,12 @@
+Game Design Document Requirements
+
+
+ - Game Outline
+ - Game Summary
+ - Game Mechanics
+ - Controls
+ - Plot
+ - List of characters
+ - Any cool ideas
+
+I'll add more to this list soon.
