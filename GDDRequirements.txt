@@ -6,6 +6,7 @@ Game Design Document Requirements
  - Game Mechanics
  - Controls
  - Plot
+ - DLCs
  - List of characters
  - Any cool ideas
 
