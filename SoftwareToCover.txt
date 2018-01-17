@@ -1,6 +1,6 @@
 Software to Cover
 
-
+ - YouTube
  - Discord
  - GitHub
  - Trello
